@@ -1,0 +1,22 @@
+##############
+
+Generated using Adrikikicp CLI v2.2.3
+
+//Don't edit this part, or on build it fails
+
+
+##############
+
+
+Name: Navegador819
+
+Compiler: Visual Build Tools 2019 and .NET Core
+
+Version: 2.0.3
+
+Data {
+
+pRet: "auto",
+Language: "C++ and C#"
+
+}
